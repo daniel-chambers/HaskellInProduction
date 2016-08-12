@@ -5,6 +5,8 @@ This repository contains the presentation materials and sample code for the Hask
 
 > In this talk we'll take a look at one team's journey from working in F# on .NET into the world of shipping pure, immutable and fully-functional code written in Haskell straight into production on AWS. We'll cover the reasons why we chose Haskell, what advantages it brought us, and the challenges we overcame along our journey.
 
+There's two versions of the slides, one done for NDC Sydney 2016 which was a one hour talk, and one done for DDD Melbourne 2016, which had some things cut from it to fit into 45 minutes.
+
 To get the sample code up and running you will need:
 
 * [Haskell Stack][1] - to compile to code
